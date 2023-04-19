@@ -1,0 +1,14 @@
+.idea*
+.vscode
+__pycache__
+*.out
+*.log
+*.*log*.*
+test.*
+data
+*.pth
+runs
+bert/models
+bert/experiment_log
+bert/experiment
+experiment
